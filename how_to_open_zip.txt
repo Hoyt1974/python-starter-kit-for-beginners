@@ -1,0 +1,5 @@
+HOW TO OPEN THIS ZIP FILE (Windows/Mac):
+1. Right-click on the zip file.
+2. Select "Extract All..." or "Unzip".
+3. Choose a folder to extract to (your Desktop is fine).
+4. Done! You’ll now see a folder called "KimPythonStarterKit".
